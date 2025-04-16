@@ -1,5 +1,5 @@
 #  Klea
-I love going to the gym and having a healthy lifestyle s tjat basically the main thing that inspired me to work on this website.
+I love going to the gym and having a healthy lifestyle and that is basically the main thing that inspired me to work on this website.
 I believe that fitness is a journey, not a destination. My mission is to empower individuals to lead healthier, more active lives through a comprehensive range of resources and support,the wbsite contains:
 
 - Personalized Workout Plans: Tailored fitness programs designed to meet your specific goals, whether you're aiming to lose weight, build muscle, or improve overall wellness.
